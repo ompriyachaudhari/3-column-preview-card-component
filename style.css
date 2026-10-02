@@ -127,15 +127,13 @@ button:focus {
     .one {
         border-top-left-radius: 0.5rem;
         border-top-right-radius: 0.5rem;
-        border-bottom-right-radius: none;
-        border-bottom-left-radius: none;
+        border-bottom-right-radius: 0rem;
+        border-bottom-left-radius: 0rem;
 
     }
 
     .three {
-        border-top-right-radius: none;
+        border-top-right-radius: 0rem;
         border-bottom-left-radius: 0.5rem;
-
-
     }
 }
